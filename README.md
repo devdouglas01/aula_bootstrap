@@ -1,2 +1,2 @@
 # aula_bootstrap
-utiliozando bootstrap
+utilizando bootstrap
